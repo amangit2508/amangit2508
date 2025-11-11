@@ -44,3 +44,14 @@ Full-Stack Developer | Open Source Enthusiast | Tech Community Builder
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanmishra2508?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
+## 📊 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amangit2508&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Activity Graph
+
+![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangit2508&theme=react-dark)
+
+---
