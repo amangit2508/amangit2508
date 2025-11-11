@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="center">
-  <em>“In the game of code, you win or you debug” — Cersei Lannister, GOT ⚔️</em>
+  <em>Don’t chase the bugs; master the logic</em>
 </p>
 
 ---
